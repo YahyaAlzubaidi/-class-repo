@@ -1,2 +1,2 @@
-# -class-repo
+# class-repo
 new class repo
